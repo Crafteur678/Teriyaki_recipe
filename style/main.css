@@ -1,0 +1,75 @@
+
+body {
+    background: linear-gradient(
+        55deg, #d512eb, #9414a0,
+        #48056a);
+}
+
+h1 {
+    color:#fff ;
+    text-shadow: 0 0 12px rgb(187, 88, 253), 0 0 15px rgb(187, 88, 253), 0 0 18px rgb(187, 88, 253);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+}
+
+h2 {
+    color:#fff ;
+    text-shadow: 0 0 12px rgb(210, 142, 255), 0 0 15px rgb(210, 142, 255), 0 0 18px rgb(210, 142, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+}
+
+img {
+    border-radius: 12px;
+    align-items: center;
+}
+
+p {
+    color: #fff ;
+}
+
+.polaroid {
+    width: 60%;
+    background-color: rgb(27, 27, 27);
+    margin: 20px auto;
+    padding: 10px;
+
+
+    box-shadow:
+    0 4px 8px rgba(0,0,0,0.2),
+    0 6px 20px rgba(0,0,0,0.19);
+
+    border-radius: 12px;
+}
+
+ol {
+    color: #fff;
+}
+
+ul {
+    color: #fff;
+}
+
+a {
+    color: linear-gradient(
+        55deg, rgb(210, 142, 255), rgb(210, 142, 255), rgb(210, 142, 255)) ;
+}
+
+.page {
+    width: 100%;
+    background-color: rgb(27, 27, 27);
+	padding: 10px;
+
+
+    
+}
+
+.titre {
+	width: 100%;
+	background-color: rgb(27, 27, 27);
+	padding: 10px;
+	position: static; 
+	
+}
